@@ -10,5 +10,5 @@ Using data from the Walla Walla Airport weather station, we will create a radial
 
 #### Prevailing Winds
 In this visualization we see clearly that the prevailing winds for this time period were in the south and west.
-![A radial bar plot of avg wind speed by direction for one month Sep 27, 2025 - Oct 27, 2025 at the Walla Walla Airport. Prevailing winds appear to come from the south and west.](prevailing winds.png)
+![A radial bar plot of avg wind speed by direction for one month Sep 27, 2025 - Oct 27, 2025 at the Walla Walla Airport. Prevailing winds appear to come from the south and west.](prevailing%20winds.png)
 
