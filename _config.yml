@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Wind Speed Visualization
+description: "A visualization of windspeed."
+show_downloads: false
